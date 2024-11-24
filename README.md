@@ -1,7 +1,3 @@
-Here’s an updated, more descriptive version of your `README.md` file without the examples:
-
----
-
 # Simplified UNIX-like Utilities
 
 This project is a simplified implementation of common UNIX-like utilities in C. It provides a custom shell that supports a set of commands often used in UNIX systems, such as `ls`, `cat`, `grep`, `wc`, `cp`, `mv`, `rm`, along with additional functionality like changing directories, printing the current directory, and basic piping of commands. The project is designed to offer a learning platform for understanding how these utilities work at a low level, implemented with minimal external dependencies.
